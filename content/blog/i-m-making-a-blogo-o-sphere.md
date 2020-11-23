@@ -12,3 +12,5 @@ title = "I'm Making a Blogo-o-sphere"
 ## Starting a Blog!
 
 Hey guys, this is my first real blog post. What is even going on?
+
+![](/images/34.JPG)
